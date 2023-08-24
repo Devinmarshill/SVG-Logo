@@ -34,4 +34,4 @@ License: MIT
 
 ![Alt text](image.png)
 
-Link to video demo: 
+Link to video demo: https://github.com/Devinmarshill/SVG-Logo/blob/main/Demonstration%20Video.webm
